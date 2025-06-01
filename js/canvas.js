@@ -110,3 +110,13 @@ drawCircle(canvas5);
 
 addEvent('load', window, drawImageToCanvas);
 addEvent('load', window, manipulateImage);
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notre Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bienvenue !</h1>
+</body>
+</html>
